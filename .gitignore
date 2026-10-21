@@ -1,0 +1,9 @@
+yolo-env/
+.idea/
+runs/
+__pycache__/
+*.py[cod]
+yolov8n.pt
+yolov8m.pt
+yolov8s.pt
+yolov8x.pt
